@@ -1,0 +1,15 @@
+"H:\arm\bin\armproc.dll" 
+
+"H:\arm\bin\armstlink2.dll" 
+
+"H:\arm_yj\LCD_test\EWARM\LCD_test\Exe\LCD_test.out" 
+
+--plugin="H:\arm\bin\armbat.dll" 
+
+--device_macro="H:\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+--flash_loader="H:\arm\config\flashloader\ST\FlashSTM32F4xxx.board" 
+
+
+
+
